@@ -1,0 +1,3 @@
+1. This is the same code for the 'Working_With_Flower_Images.ipynb' file but with a custom metric demonstration in the 'final run' section
+2. The custom metric created is a simple one for the calculation of auc for train and validation
+3. The custom metric uses mainly numpy functions, however tf.func is the conventional way to go, will update such a file soon.
