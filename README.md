@@ -11,6 +11,8 @@ The code is now updated for latest tensorflow and tensorboard versions, followin
 1. Added 'tf.compat.v1.logging.set_verbosity('ERROR')' to reduce verbosity to only errors.
 2. the deprecated method 'model.fit_generator' has been replaced with model.fit after making suitable changes to the code.
 
+Updated custom_metric folder(11/12/2020 12:12 pm IST):
+Jupyter Notebook with custom metric implementation
 
 Tensorflow version: tensorflow == 2.3.1
 Tensorboard version: tensorboard == 2.4.0
